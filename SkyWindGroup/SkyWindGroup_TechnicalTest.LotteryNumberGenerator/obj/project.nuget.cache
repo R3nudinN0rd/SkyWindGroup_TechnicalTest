@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3ibzdouzNbjmZRhe9cd6iVpZut3LrkHnW0r9JtVdWaG6tFl+ISNsNkyqXZuKh7qvmIMV/zbtY0DC3jslxDQZA==",
+  "success": true,
+  "projectFilePath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r3nud\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\r3nud\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQ57lVPclvc8UM9Y2fZzrJTiPyjyH3VUw3XOetXTYEVvt0Lzq1cTEBLSNaKTkeb5CKaaKbtji/pBjOb9D3iFeA==",
+  "success": true,
+  "projectFilePath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.Validators\\SkyWindGroup_TechnicalTest.Validators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r3nud\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\r3nud\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.Services\\SkyWindGroup_TechnicalTest.Services.csproj": {}
+  },
+  "projects": {
+    "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj",
+        "projectName": "SkyWindGroup_TechnicalTest.Entities",
+        "projectPath": "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj",
+        "packagesPath": "C:\\Users\\r3nud\\.nuget\\packages\\",
+        "outputPath": "P:\\C# APIs\\ReviewHub\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r3nud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator.csproj",
+        "projectName": "SkyWindGroup_TechnicalTest.LotteryNumberGenerator",
+        "projectPath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator.csproj",
+        "packagesPath": "C:\\Users\\r3nud\\.nuget\\packages\\",
+        "outputPath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r3nud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj": {
+                "projectPath": "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.Services\\SkyWindGroup_TechnicalTest.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.Services\\SkyWindGroup_TechnicalTest.Services.csproj",
+        "projectName": "SkyWindGroup_TechnicalTest.Services",
+        "projectPath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.Services\\SkyWindGroup_TechnicalTest.Services.csproj",
+        "packagesPath": "C:\\Users\\r3nud\\.nuget\\packages\\",
+        "outputPath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r3nud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj": {
+                "projectPath": "P:\\C# APIs\\ReviewHub\\Entities\\SkyWindGroup_TechnicalTest.Entities.csproj"
+              },
+              "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator.csproj": {
+                "projectPath": "P:\\C# APIs\\ReviewHub\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator\\SkyWindGroup_TechnicalTest.LotteryNumberGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
