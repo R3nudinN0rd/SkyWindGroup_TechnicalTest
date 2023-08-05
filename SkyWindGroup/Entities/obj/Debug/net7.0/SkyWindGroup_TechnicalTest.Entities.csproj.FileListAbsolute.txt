@@ -1,0 +1,12 @@
+P:\C# APIs\ReviewHub\Entities\bin\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.deps.json
+P:\C# APIs\ReviewHub\Entities\bin\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.dll
+P:\C# APIs\ReviewHub\Entities\bin\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.pdb
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.csproj.AssemblyReference.cache
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.AssemblyInfoInputs.cache
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.AssemblyInfo.cs
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.csproj.CoreCompileInputs.cache
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.dll
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\refint\SkyWindGroup_TechnicalTest.Entities.dll
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\SkyWindGroup_TechnicalTest.Entities.pdb
+P:\C# APIs\ReviewHub\Entities\obj\Debug\net7.0\ref\SkyWindGroup_TechnicalTest.Entities.dll
